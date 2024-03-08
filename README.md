@@ -1,4 +1,5 @@
 Source code for "Automated Fusion of Multimodal Electronic Health Records for Better Medical Predictions"
+(https://arxiv.org/abs/2401.11252)
 
 1. Access the MIMIC - III dataset (https://physionet.org/content/mimiciii/1.4/)
 1. Following Fiddle Pipeline to process the MIMIC-III data (https://github.com/MLD3/FIDDLE-experiments).
